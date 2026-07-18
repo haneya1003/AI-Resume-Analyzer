@@ -1,0 +1,32 @@
+# Virtual Environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Uploaded resumes
+uploads/
+*.pdf
+
+# Generated reports
+reports/
+
+# Model cache
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+venv/
+__pycache__/
+*.pyc
+.streamlit/
+reports/
+uploads/
+.env
