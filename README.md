@@ -156,20 +156,19 @@ Run application:
 streamlit run app.py
 
 ---
+## 📸 Screenshots
 
-# 📸 Screenshots
+### Resume Upload
 
-## Resume Upload
+![Resume Upload](screenshots/upload.png)
 
-![Upload](screenshots/upload.png)
-
-## Resume Dashboard
+### Resume Dashboard
 
 ![Dashboard](screenshots/dashboard.png)
 
-## Analysis Results
+### Analysis Results
 
-![Analysis](screenshots/analysis.png)
+![Analysis Results](screenshots/analysis.png)
 
 ---
 
