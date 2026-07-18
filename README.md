@@ -177,11 +177,13 @@ streamlit run app.py
 ATS Engine Test:
 
 ```bash
+
 python test_ats.py
 
 Score Pipeline Test:
 
 python test_score.py
+
 📈 Example Analysis Output
 
 The system provides:
@@ -194,16 +196,16 @@ Keyword Coverage
 Recruiter Grade
 Interview Probability
 AI Feedback
+
 🎯 Future Improvements
 Real-time job portal integration
 Resume improvement generator
 Multi-language resume support
 Advanced recruiter ranking model
 Cloud deployment
+
 👩‍💻 Author
-
 Haneya
-
 BSc Artificial Intelligence
 
 ⭐ If you find this project useful, consider giving it a star!
@@ -214,6 +216,7 @@ After saving the README:
 Open terminal and run:
 
 ```powershell
+
 git add README.md
 
 then:
